@@ -1,7 +1,3 @@
-**Trash Boots Cache**.
+An Cache containing blueprints for sub-par boots. Fragile and overall lacking in protection, these are only ever useful for material scraps. 
 
-They say one man's trash is another man's treasure… 
-
-These boots are definitely NOT ideal. You see visible signs of wear and tear. It reeks of dead sewer rat, and you notice a large portion of the soles missing from one of the boots. Judging from the layers of dust and debris, you understand that these have been abandoned for a couple years.
-
-However, it's better than nothing, right?...
+The cache seems to be rusted, with missing and bent parts, its a wonder it's still working.
